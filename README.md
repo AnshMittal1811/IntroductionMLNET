@@ -1,2 +1,5 @@
 # Introduction ML.NET
-I did this project as a starter for getting to know how to work with Machine Learning alongside ASP.NET. So, this holds an introductory project with API for the same.
+
+I did this project as a starter for getting to know how to work with Machine Learning alongside ASP.NET. So, this holds an introductory project with API for the same. Using this as the first project for GitHub gist.
+
+This was also used to present a Transaction Predictor at Delhi e-Governance Society based on data fetched from SQLYog queries from ASP.NET using C#. 
